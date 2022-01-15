@@ -1,0 +1,25 @@
+.active-price {
+    background: #1980ea;
+    color: #fff;
+}
+#onInspection-change, #onInspectionVar-change{display: none;}
+.variation_block {
+  box-shadow: 0 0 5px 1px #ddd;
+  margin: 10px;
+  padding: 5%;
+}
+.general_input {
+    box-shadow: 0 0 2px 2px #ddd;
+    padding: 10px;
+}
+span.button {
+    background: #242525;
+    padding: 10px;
+}
+span.button {
+    margin-left: 10%;
+}
+span.button a {
+    color: #fff;
+    font-size: 14px;
+}
